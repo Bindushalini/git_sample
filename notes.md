@@ -100,3 +100,11 @@ pull requests: to review and merge the data from other collaborators.
 can add comments, and many options
 
 
+git fetch: pulls all the changes from remote to local branch
+if the local is not synced to remote origin stream, upstream need to be done: git branch --set-upstream-to=origin/<branch> main
+
+
+git clone : to copy the remote code base to local repository.
+
+
+git pull: updates and merges with the current code.
