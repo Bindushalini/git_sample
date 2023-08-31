@@ -90,3 +90,13 @@ git remote add
 git remove add NAME URL
 git push -all
 git push -u origin name of branch 
+
+
+**github**
+labels - 
+tags - can be added to distinguish between different issues and track
+
+pull requests: to review and merge the data from other collaborators. 
+can add comments, and many options
+
+
