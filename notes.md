@@ -91,6 +91,9 @@ git remove add NAME URL
 git push -all
 git push -u origin name of branch 
 
+git remote add origin https://github.com/Bindushalini/pythonbootcamp2023.git
+git branch -M main
+git push -u origin main
 
 **github**
 labels - 
