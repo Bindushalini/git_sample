@@ -102,6 +102,8 @@ tags - can be added to distinguish between different issues and track
 pull requests: to review and merge the data from other collaborators. 
 can add comments, and many options
 
+ git config --global credential.helper store
+-stores the password and user credentials indefinitely
 
 git fetch: pulls all the changes from remote to local branch
 if the local is not synced to remote origin stream, upstream need to be done: git branch --set-upstream-to=origin/<branch> main
